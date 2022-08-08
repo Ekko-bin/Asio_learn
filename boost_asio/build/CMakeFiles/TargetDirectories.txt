@@ -1,0 +1,7 @@
+/home/jb/code/Asio_Prcatice/boost_asio/build/CMakeFiles/demo02.dir
+/home/jb/code/Asio_Prcatice/boost_asio/build/CMakeFiles/demo01.dir
+/home/jb/code/Asio_Prcatice/boost_asio/build/CMakeFiles/rebuild_cache.dir
+/home/jb/code/Asio_Prcatice/boost_asio/build/CMakeFiles/demo03.dir
+/home/jb/code/Asio_Prcatice/boost_asio/build/CMakeFiles/edit_cache.dir
+/home/jb/code/Asio_Prcatice/boost_asio/build/CMakeFiles/demo04.dir
+/home/jb/code/Asio_Prcatice/boost_asio/build/CMakeFiles/demo05.dir

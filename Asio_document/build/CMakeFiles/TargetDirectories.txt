@@ -1,0 +1,4 @@
+/home/jt/code/Asio_Prcatice/Asio_document/build/CMakeFiles/rebuild_cache.dir
+/home/jt/code/Asio_Prcatice/Asio_document/build/CMakeFiles/edit_cache.dir
+/home/jt/code/Asio_Prcatice/Asio_document/build/CMakeFiles/hello.dir
+/home/jt/code/Asio_Prcatice/Asio_document/build/CMakeFiles/dm01.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/active_socket_udp.dir/active_socket_udp.cpp.o  -o active_socket_udp -lpthread 

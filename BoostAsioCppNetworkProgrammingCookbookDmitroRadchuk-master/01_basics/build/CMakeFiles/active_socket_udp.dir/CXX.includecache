@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jt/code/Asio_Prcatice/BoostAsioCppNetworkProgrammingCookbookDmitroRadchuk-master/01_basics/active_socket_udp.cpp
+boost/asio.hpp
+-
+iostream
+-
+

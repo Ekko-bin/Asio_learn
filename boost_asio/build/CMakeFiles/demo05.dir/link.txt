@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/demo05.dir/src/demo05.cpp.o  -o demo05 -lpthread 

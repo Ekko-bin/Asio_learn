@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libjiabin.a  CMakeFiles/jiabin.dir/dm01.cpp.o
+/usr/bin/ranlib lib/libjiabin.a

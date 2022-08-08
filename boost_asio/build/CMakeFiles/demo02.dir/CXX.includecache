@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jb/code/Asio_Prcatice/boost_asio/src/demo02.cpp
+boost/asio.hpp
+-
+iostream
+-
+boost/bind.hpp
+-
+memory
+-
+

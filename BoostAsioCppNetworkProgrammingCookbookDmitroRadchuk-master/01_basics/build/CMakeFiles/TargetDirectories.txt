@@ -1,0 +1,3 @@
+/home/jt/code/Asio_Prcatice/BoostAsioCppNetworkProgrammingCookbookDmitroRadchuk-master/01_basics/build/CMakeFiles/rebuild_cache.dir
+/home/jt/code/Asio_Prcatice/BoostAsioCppNetworkProgrammingCookbookDmitroRadchuk-master/01_basics/build/CMakeFiles/active_socket_udp.dir
+/home/jt/code/Asio_Prcatice/BoostAsioCppNetworkProgrammingCookbookDmitroRadchuk-master/01_basics/build/CMakeFiles/edit_cache.dir
